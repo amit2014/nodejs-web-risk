@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/web-risk?activeTab=versions
 
+## [1.4.0](https://www.github.com/googleapis/nodejs-web-risk/compare/v1.3.3...v1.4.0) (2019-12-26)
+
+
+### Features
+
+* move library to typescript code generation ([#83](https://www.github.com/googleapis/nodejs-web-risk/issues/83)) ([01f2db5](https://www.github.com/googleapis/nodejs-web-risk/commit/01f2db54a4124b229f7b14d52ea29e2ae4b3796b))
+
 ### [1.3.3](https://www.github.com/googleapis/nodejs-web-risk/compare/v1.3.2...v1.3.3) (2019-12-05)
 
 
